@@ -1,0 +1,12 @@
+app-file-drop div.drop-zone {
+  height: auto !important;
+  padding: 2rem;
+  border-color: #3498db !important;
+  background: rgba(254, 254, 254, 1);
+}
+
+.drop-zone div.content {
+  flex-flow: column;
+  color: #7f8c8d;
+  height: auto;
+}
